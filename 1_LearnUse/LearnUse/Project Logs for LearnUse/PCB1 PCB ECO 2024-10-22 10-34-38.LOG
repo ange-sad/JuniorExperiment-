@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.4 New Footprint=RES-1/2W-1
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.4 New Footprint=RES-1/2W-1
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.4 New Footprint=RES-1/2W-1
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.4 New Footprint=RES-1/2W-1
+Change Component Footprint: Designator= C1 Old Footprint=CAPPR2-5x6.8 New Footprint=CAP-1uF
+Change Component Footprint: Designator=C2 Old Footprint=CAPPR2-5x6.8 New Footprint=CAP-1uF
+Change Component Footprint: Designator=C3 Old Footprint=CAPPR2-5x6.8 New Footprint=CAP-1uF
+Change Component Comment : Designator=R2 Old Comment=3K New Comment=Res2
+Change Component Comment : Designator=C2 Old Comment=10uF New Comment=Cap
+Change Component Comment : Designator=R1 Old Comment=75K New Comment=Res2
+Change Component Designator: OldDesignator=NPN1 NewDesignator=V1
+Change Net Name : Old Net Name=Net _1 New Net Name=Net C1_1
+Change Net Name : Old Net Name=Net _2 New Net Name=Net C1_2
+Added Room: Name=共E单管放大

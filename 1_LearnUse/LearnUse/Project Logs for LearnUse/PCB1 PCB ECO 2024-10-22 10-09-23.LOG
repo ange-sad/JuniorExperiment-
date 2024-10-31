@@ -1,0 +1,6 @@
+Change Component Comment : Designator=CO2 Old Comment=CON3 New Comment=GND
+Change Component Comment : Designator=CO3 Old Comment=CON3 New Comment=IN
+Change Component Comment : Designator=CO4 Old Comment=CON3 New Comment=OUT
+Change Component Comment : Designator=CO1 Old Comment=CON3 New Comment=VCC
+Change Component Designator: OldDesignator=NPN1 NewDesignator=V1
+Added Room: Name=共E单管放大

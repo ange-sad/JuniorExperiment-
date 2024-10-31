@@ -1,0 +1,10 @@
+Change Component Comment : Designator=CO2 Old Comment=GND New Comment=CON3
+Change Component Comment : Designator=CO3 Old Comment=IN New Comment=CON3
+Change Component Comment : Designator=CO4 Old Comment=OUT New Comment=CON3
+Change Component Comment : Designator=CO1 Old Comment=VCC New Comment=CON3
+Change Component Designator: OldDesignator=CO1 NewDesignator=VCC
+Change Component Designator: OldDesignator=CO2 NewDesignator=GND
+Change Component Designator: OldDesignator=CO3 NewDesignator=IN
+Change Component Designator: OldDesignator=CO4 NewDesignator=OUT
+Change Net Name : Old Net Name=NetCO4_1 New Net Name=NetOUT_1
+Added Room: Name=共E单管放大

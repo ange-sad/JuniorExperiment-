@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=CO1 Old Footprint=3口接线端子 New Footprint=SIP3
+Change Component Footprint: Designator=CO2 Old Footprint=3口接线端子 New Footprint=SIP3
+Change Component Footprint: Designator=CO3 Old Footprint=3口接线端子 New Footprint=SIP3
+Change Component Footprint: Designator=CO4 Old Footprint=3口接线端子 New Footprint=SIP3
+Added Room: Name=共E单管放大

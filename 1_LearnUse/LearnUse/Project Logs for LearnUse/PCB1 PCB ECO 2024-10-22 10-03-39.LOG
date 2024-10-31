@@ -1,0 +1,21 @@
+Added Component: Designator=CO1(3口接线端子)
+Added Component: Designator=CO2(3口接线端子)
+Added Component: Designator=CO3(3口接线端子)
+Added Component: Designator=CO4(3口接线端子)
+Added Pin To Net: NetName=VCC Pin=CO1-1
+Added Pin To Net: NetName=VCC Pin=CO1-2
+Added Pin To Net: NetName=VCC Pin=CO1-3
+Added Pin To Net: NetName=GND Pin=CO2-1
+Added Pin To Net: NetName=GND Pin=CO2-2
+Added Pin To Net: NetName=GND Pin=CO2-3
+Added Pin To Net: NetName=NetC1_1 Pin=CO3-1
+Added Pin To Net: NetName=NetC1_1 Pin=CO3-2
+Added Pin To Net: NetName=NetC1_1 Pin=CO3-3
+Added Pin To Net: NetName=NetCO4_1 Pin=CO4-1
+Added Pin To Net: NetName=NetCO4_1 Pin=CO4-2
+Added Pin To Net: NetName=NetCO4_1 Pin=CO4-3
+Added Net: Name=NetCO4_1
+Added Member To Class: ClassName=共E单管放大 Member=Component CO1 CON3
+Added Member To Class: ClassName=共E单管放大 Member=Component CO2 CON3
+Added Member To Class: ClassName=共E单管放大 Member=Component CO3 CON3
+Added Member To Class: ClassName=共E单管放大 Member=Component CO4 CON3
